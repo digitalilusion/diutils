@@ -1,0 +1,2 @@
+# diutils
+Django Utilities
