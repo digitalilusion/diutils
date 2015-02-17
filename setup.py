@@ -2,5 +2,7 @@
 from distutils.core import setup
 setup(name='diutils',
       version='0.1',
-      py_modules=['diutils'],
+      author=u'JM Robles'
+      author_email='chema@digitalilusion.com',
+      packages=['diutils'],
       )
