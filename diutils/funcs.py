@@ -3,6 +3,7 @@ from django.http import HttpResponse
 from django.db.models.base import ModelState
 from django.core.mail import EmailMultiAlternatives
 from django.template.loader import render_to_string
+from django.conf import settings
 from email.MIMEImage import MIMEImage
 import decimal
 import json
