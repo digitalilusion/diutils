@@ -5,4 +5,5 @@ setup(name='diutils',
       author=u'JM Robles',
       author_email=u'chema@digitalilusion.com',
       packages=['diutils'],
+      install_requires=['django>=1.6.10', 'celery>=3.1.17']
       )
