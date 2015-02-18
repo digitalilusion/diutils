@@ -10,4 +10,3 @@ def doSendEmail(to, fro, cc, subject, html, txt, att=None, attContent=None,
     sendHtmlMailExp(to, fro, cc, subject, html,
                     txt, att, attContent, mime, headers, attPic)
 
-~                                                                                 
